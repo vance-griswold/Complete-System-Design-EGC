@@ -1,0 +1,38 @@
+[
+	{
+		"id" : " UUID NUMBER",
+		"userRole" : "student",
+		"firstname" : "Amy",
+		"lastname" : "Smith",
+		"Username" : "Granny_Smith",
+		"playlists" : ["Country", "Rock", "Pop", "Favorites"],
+		"emailAddress" : "asmith@gmail.com",
+		"experienceLevel" : "4",
+		"xpPoints" : "460",
+		"mySongs" : ["Piano Type beat", "First Guitar Song"]
+	},
+	{
+		"id" : " UUID NUMBER",
+		"userRole" : "student",
+		"firstname" : "John",
+		"lastname" : "Deer",
+		"Username" : "Jonny_Appleseed",
+		"playlists" : ["Hard songs", "warmup", "Pop", "Favorites"],
+		"emailAddress" : "JonnyBoy@gmail.com",
+		"experienceLevel" : "13",
+		"xpPoints" : "1340",
+		"mySongs" : ["Song for mom final", "v1 song for mom"]
+	},
+	{
+		"id" : " UUID NUMBER",
+		"userRole" : "student",
+		"firstname" : "Jessica",
+		"lastname" : "Green",
+		"Username" : "witchgirl123",
+		"playlists" : ["Warm up songs", "Lessons", "Favorites"],
+		"emailAddress" : "jgreen@gmail.com",
+		"experienceLevel" : "8",
+		"xpPoints" : "880",
+		"mySongs" : ["playing around", "Going the the club", "HappySong"]
+	}
+]
